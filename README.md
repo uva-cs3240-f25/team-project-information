@@ -4,7 +4,7 @@ Welcome! This repo contains the **project timeline, requirements, and deliverabl
 
 ## Quick links
 - 📅 [Sprint Schedule](docs/sprints.md)
-- [Project Description](docs/project_description.md)
+- 📘 [Project Description](docs/project_description.md)
 - 🧭 [Grading & XP Breakdown](docs/grading.md)
 - 🛠️ [Local Setup](docs/setup.md) · [Deployment](docs/deployment.md) · [Tech Stack](docs/tech_stack.md)
 - 🧾 Documents:
