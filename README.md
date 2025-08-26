@@ -24,7 +24,7 @@ _Key:_
 - 🛑 No class (UVA holiday/break)  
 - ✅ Final deliverable  
 
-_NOTES:_ 
+_Notes:_ 
 - _Teams meet with TAs on either Sunday or Monday of each week to review the previous week's progress.  No meetings on Oct 12-13 due to Fall Break._
 - _All items are due at 11:59 PM ET on the dates indicated._
 ---
