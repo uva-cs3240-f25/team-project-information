@@ -6,10 +6,10 @@ This document outlines the sprint structure, deliverables, and timing for the se
 
 ## Sprint Overview
 
-### Sprint 0 — Django Tutorial Prep (Individual)  
+### Sprint 0 — Django Tutorial Prep + Student Info Form (Individual)  
 **Window:** Sun Aug 31 → Sat Sep 6  
 **Focus:** Students work individually on Django tutorial to prepare before teams are assigned.  
-**Deliverables:** Tutorial app running locally.  
+**Deliverables:** Tutorial app running locally.  Complete the Student Info Form by 11:59 PM Tuesday, Sep 2.
 **TA Meeting:** None (prep only)
 
 ---
@@ -78,11 +78,11 @@ This document outlines the sprint structure, deliverables, and timing for the se
 ---
 
 ### Final Push — Final Deliverable  
-**Window:** Sun Nov 30 → Sun Dec 7 @ 11:59 PM  
+**Window:** Sun Nov 30 → Tue Dec 9 @ 11:59 PM  
 **Focus:** Polish, stabilize, finalize before submission.  
 **Deliverables:**  
 - Final deployed app  
 - Final teammate evaluations  
-**TA Meeting:** Dec 8 (wrap-up scoring)
+**TA Meeting:** No meeting
 
 ---
