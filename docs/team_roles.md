@@ -2,10 +2,10 @@
 
 Each member of your five person team will take on one of these roles.  Each role has different responsibilities, but ALL ROLES require that you be an active contributor to the code of the project.  In other words, if you take on Scrum Master, that doesn't mean you don't have to contribute as much code as someone else.  
 
-__Scrum Master__ - The Scrum Master could also be called the Team Leader, but it's not really a "leader" position, per se, in that they are not making major decisions about the project itself.  The Scrum Master is responsible for keeping everyone on track, facilitating all team meetings, and monitoring team status / issues.  The course staff will come to the Scrum Master first if there are any team issues or questions, and similarly the Scrum Master needs to know what's going on with the team and can communicate with the staff if someone is falling behind, etc.
+__Scrum Lead__ - The Scrum Lead could also be called the Team Leader, but it's not really a "leader" position, per se, in that they are not making major decisions about the project itself.  The Scrum Lead is responsible for keeping everyone on track, facilitating all team meetings, and monitoring team status / issues.  The course staff will come to the Scrum Lead first if there are any team issues or questions, and similarly the Scrum Lead needs to know what's going on with the team and can communicate with the staff if someone is falling behind, etc.
 
-- Reasons to be the Scrum Master: You like keeping schedules; you like keeping things organized; you don't mind being the point of contact with the staff.
-- Reasons not to be the Scrum Master: You are not the most organized person; you don't think you can stay on top of what the team is working on; you don't like talking to the staff.
+- Reasons to be the Scrum Lead: You like keeping schedules; you like keeping things organized; you don't mind being the point of contact with the staff.
+- Reasons not to be the Scrum Lead: You are not the most organized person; you don't think you can stay on top of what the team is working on; you don't like talking to the staff.
 
 __Requirements Lead__ - The Requirements Lead is responsible for keeping up with the features of the project.  This person will take the lead on the requirements elicitation process (which takes place in the first couple weeks of the project) as their major activity.  Note that the Requirements Manager doesn't do the whole process - they just lead the effort.  Everyone else has to participate as well!  Then throughout the semester they will manage the feature/issue tracker in GitHub, monitoring the state of the project.
 
