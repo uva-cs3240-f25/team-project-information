@@ -33,7 +33,7 @@ _Notes:_
 | Week | Dates        | Notes |
 |------|-------------|-------|
 | W1   | Aug 31 – Sep 6  | 🚀 Sprint 0 (Django Tutorial Prep); 📝 **Student Info Form due Sep 2** |
-| W2   | Sep 7 – Sep 13  | 🚀 Sprint 1 (Django Practice + Quiz); Quiz due |
+| W2   | Sep 7 – Sep 13  | 🚀 Sprint 1 (Django Practice + Quiz); 📝 **Django Canvas Quiz due Sep 13**; 📝 **Team Declaration Form due Sep 13** |
 | W3   | Sep 14 – Sep 20 | 🚀 Sprint 2 (Requirements) begins |
 | W4   | Sep 21 – Sep 27 | 🚀 Sprint 2 (Requirements) continues |
 | W5   | Sep 28 – Oct 4  | 🚀 Sprint 2 (Requirements) wraps |
