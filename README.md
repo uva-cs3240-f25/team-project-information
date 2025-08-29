@@ -8,7 +8,7 @@ Welcome! This repo contains the **project timeline, requirements, and deliverabl
 - 📝 [Base User Stories](docs/user_stories.md)
 - 👥 [Team Roles](docs/team_roles.md)
 - 🧭 [Grading & XP Breakdown](docs/grading.md)
-- 🛠️ [Local Setup](docs/setup.md) · [Deployment](docs/deployment.md) · [Tech Stack](docs/tech_stack.md)
+- 🛠️ [Tech Stack](docs/tech_stack.md) · [Deployment](docs/deployment.md)
 - 🧾 Documents:
   - [Requirements Document](#)
   - [Change Impact Report](#)
