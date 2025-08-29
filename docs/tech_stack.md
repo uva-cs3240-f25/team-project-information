@@ -1,11 +1,5 @@
 # Tech Stack
 
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ## Git Resources
 ![Git Cheat Sheet](/assets/images/git-cheat-sheet.png?raw=true "Git Cheat Sheet")
 
