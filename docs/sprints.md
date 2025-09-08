@@ -14,7 +14,7 @@ This document outlines the sprint structure, deliverables, and timing for the se
 
 ## Sprint 1 — Django Practice + Canvas Quiz (Individual)  
 **Window:** Sun Sep 7 → Sat Sep 13  
-**Focus:** Reinforce Django fundamentals, complete quiz.  Teams meet to determine roles and project domain.  Complete Team Declaration form before meeting with TAs.
+**Focus:** Reinforce Django fundamentals, complete quiz.  Teams meet to determine roles and project domain.  Complete Team Declaration form before meeting with TAs.     
 **Deliverables:** 
 
 - Complete the Django Basics Quiz on Canvas by Sep 13 @ 11:59 PM.
