@@ -15,7 +15,11 @@ This document outlines the sprint structure, deliverables, and timing for the se
 ## Sprint 1 — Django Practice + Canvas Quiz (Individual)  
 **Window:** Sun Sep 7 → Sat Sep 13  
 **Focus:** Reinforce Django fundamentals, complete quiz.  Teams meet to determine roles and project domain.  Complete Team Declaration form before meeting with TAs.
-**Deliverables:** Working Django app from tutorial, Canvas quiz results.  
+**Deliverables:** 
+- Complete the Django Basics Quiz on Canvas by Sep 13 @ 11:59 PM.
+- Decide team roles and project idea. Scrum Lead ONLY should submit the Team Declaration Form in Canvas by the end of the meeting with the TA.
+- Scrum Lead should initialize the team's project repository in GitHub at the link https://classroom.github.com/a/k4pNZww7. Please use your assigned team number for the identifier when prompted (e.g., A-03). Other team members can then go to that link and accept the assignment, selecting the proper team.
+- All team members should be in Discord.
 **TA Meeting:** Sep 14–15
 
 ---
