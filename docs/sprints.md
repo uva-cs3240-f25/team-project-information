@@ -21,6 +21,7 @@ This document outlines the sprint structure, deliverables, and timing for the se
 - Decide team roles and project idea. Scrum Lead ONLY should submit the Team Declaration Form in Canvas by the end of the meeting with the TA.
 - Scrum Lead should initialize the team's project repository in GitHub at the link https://classroom.github.com/a/k4pNZww7. Please use your assigned team number for the identifier when prompted (e.g., A-03). Other team members can then go to that link and accept the assignment, selecting the proper team.
 - All team members should be in Discord.
+- Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1VunaACHIt9-xRZ_Lqo-0s0_Po5fHXaeNrQn7XC1jjh8/edit?usp=sharing) and submit it to Gradescope by noon on Sunday at the completion of the sprint so they can reference it. Scrum Masters -must- select their team members in Gradescope when submitting so all members will earn the XP for the sprint. (No, you won’t have much to report this week, but think about what’s coming up and discuss that.)
 
 **TA Meeting:** Sep 14–15
 
