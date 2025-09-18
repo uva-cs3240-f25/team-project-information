@@ -10,7 +10,7 @@ Welcome! This repo contains the **project timeline, requirements, and deliverabl
 - 🧭 [Grading & XP Breakdown](docs/grading.md)
 - 🛠️ [Tech Stack](docs/tech_stack.md) · [Deployment](docs/deployment.md)
 - 🧾 Documents:
-  - [Requirements Document](#)
+  - [Requirements Document](https://docs.google.com/document/d/1va2IzjTXi6xZyewZde7gxKobm-mbgb17X_bZOm9Zv9E/edit?usp=sharing)
   - [Change Impact Report](#)
   - [Beta Testing Document](#)
 - ✍️ [Citation Guidelines (code & AI)](docs/citation_guidelines.md)
