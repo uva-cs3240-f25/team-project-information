@@ -43,7 +43,7 @@ This document outlines the sprint structure, deliverables, and timing for the se
 **Focus:** Google Login, basic profiles, minimal dashboard.  
 **Deliverables:**  
 - Working auth/profile flow  
-- Demo video  
+- Working Heroku build
 **TA Meeting:** Oct 19–20
 
 ---
@@ -63,8 +63,6 @@ This document outlines the sprint structure, deliverables, and timing for the se
 **Focus:** Instructor-provided change, impact analysis, updated backlog, revised design.  
 **Deliverables:**  
 - **Change Impact Report** (team)  
-- Updated backlog  
-- Demo slice  
 - **Working beta version deployed by end of sprint**  
 **TA Meeting:** Nov 16–17
 
