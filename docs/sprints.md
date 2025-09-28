@@ -33,6 +33,7 @@ This document outlines the sprint structure, deliverables, and timing for the se
 **Deliverables:**  
 - [Requirements Document](https://docs.google.com/document/d/1va2IzjTXi6xZyewZde7gxKobm-mbgb17X_bZOm9Zv9E/edit?usp=sharing) (team - Due at NOON on Sun Oct 5)  
 - Prioritized backlog / user stories in GitHub Issues
+- Base template Django project is running on Heroku (does not have to have any content - just show that everything is connected and can deploy)
 - Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1VunaACHIt9-xRZ_Lqo-0s0_Po5fHXaeNrQn7XC1jjh8/edit?usp=sharing) and submit it to Gradescope by noon on Sunday at the completion of the sprint so they can reference it. Scrum Masters -must- select their team members in Gradescope when submitting so all members will earn the XP for the sprint.     
 
 **TA Meeting:** Oct 5–6
