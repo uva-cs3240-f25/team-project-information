@@ -4,6 +4,8 @@
 
 All projects must be built using the prescribed language (Python 3), database system (PostgreSQL), framework (Django 5), build environment (GitHub Actions CI), source control management (GitHub), cloud hosting (Heroku), and cloud storage (Amazon S3). No exceptions to these will be granted.
 
+While there is no requirement to use Bootstrap or any other particular UI framework, teams must use Django templates for generating web pages.  Any libraries used for styling must be roughly equivalent to Bootstrap.  UI libraries cannot make JSON/XML/API calls to Django-based web services.
+
 Note: All projects must use the PostgreSQL database engine for production on Heroku and continuous integration (on GitHub Actions). You are allowed to use SQLite for local testing so you do not have to install PostgreSQL on your own machine, but another option is to change your settings.py file point to the PostgreSQL DB on Heroku at all times.
 
 ## Git Resources
