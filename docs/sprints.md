@@ -42,10 +42,12 @@ This document outlines the sprint structure, deliverables, and timing for the se
 
 ## Sprint 3 — Auth + Profiles  
 **Window:** Sun Oct 5 → Sat Oct 18  
-**Focus:** Google Login, basic profiles, minimal dashboard.  
+**Focus:** Google Login, basic profiles, minimal dashboard/landing page.  
 **Deliverables:**  
-- Working auth/profile flow  
-- Working Heroku build
+- Working app running on Heroku
+- Must allow for at least two different user types to log in and recognized as being different user types (indicate this somehow appropriate)
+- The user types must have different functionality available (functionality does not have to be fully implemented); Example: regular user can record when they pick up trash, while an admin user can pull up a graph of all users and their activities
+- A user profile page should be available once a user logs in, showing basic information
 **TA Meeting:** Oct 19–20
 
 ---
@@ -54,7 +56,7 @@ This document outlines the sprint structure, deliverables, and timing for the se
 **Window:** Sun Oct 19 → Sat Nov 1  
 **Focus:** Messaging, file storage on S3, moderation/logging.  
 **Deliverables:**  
-- Messaging between users  
+- Direct messaging between users  
 - File upload/retrieval with S3  
 **TA Meeting:** Nov 2–3
 
