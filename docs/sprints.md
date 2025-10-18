@@ -48,7 +48,9 @@ This document outlines the sprint structure, deliverables, and timing for the se
 - Must allow for at least two different user types to log in and recognized as being different user types (indicate this somehow appropriate)
 - The user types must have different functionality available (functionality does not have to be fully implemented); Example: regular user can record when they pick up trash, while an admin user can pull up a graph of all users and their activities
 - A user profile page should be available once a user logs in, showing basic information
-- Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1VunaACHIt9-xRZ_Lqo-0s0_Po5fHXaeNrQn7XC1jjh8/edit?usp=sharing) and submit it to Gradescope by noon on Sunday at the completion of the sprint so they can reference it. Scrum Masters -must- select their team members in Gradescope when submitting so all members will earn the XP for the sprint.       
+- Scrum Masters should fill out a [Sprint Report](https://docs.google.com/document/d/1VunaACHIt9-xRZ_Lqo-0s0_Po5fHXaeNrQn7XC1jjh8/edit?usp=sharing) and submit it to Gradescope by noon on Sunday at the completion of the sprint so they can reference it. Scrum Masters -must- select their team members in Gradescope when submitting so all members will earn the XP for the sprint.
+
+
 **TA Meeting:** Oct 19–20
 
 ---
