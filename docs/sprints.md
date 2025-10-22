@@ -57,7 +57,7 @@ This document outlines the sprint structure, deliverables, and timing for the se
 
 ## Sprint 4 — Messaging + Amazon S3  
 **Window:** Sun Oct 19 → Sat Nov 1  
-**Focus:** Messaging, file storage on S3, moderation/logging.  
+**Focus:** Messaging, file storage on S3, moderation.  
 **Deliverables:**  
 - Direct messaging between users  
 - File upload/retrieval with S3  
