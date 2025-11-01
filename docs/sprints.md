@@ -67,7 +67,8 @@ This document outlines the sprint structure, deliverables, and timing for the se
 
 ## Sprint 5 — Major Requirements Change  
 **Window:** Sun Nov 2 → Sat Nov 15  
-**Focus:** Instructor-provided change, impact analysis, updated backlog, revised design.  
+**Focus:** Instructor-provided change w/ impact analysis & continue working on your own backlog of features.     
+**Change:** Change will be announced Tuesday, November 4
 **Deliverables:**  
 - **Change Impact Report** (team)  
 - **Working beta version deployed by end of sprint**  
