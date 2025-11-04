@@ -10,7 +10,8 @@ _Format: “As a [role], I should be able to [do something] because [reason].”
 - As a user, I should be able to **delete my account** because I want control over my data.
 
 ## 2) Profiles & Media (Amazon S3)
-- As a student, I should be able to **edit my profile** (name, short bio, sustainability interests) because teammates and peers need to know who I am.
+- As a student, I should be able to **edit my profile** (~~name,~~ short bio, sustainability interests) because teammates and peers need to know who I am.
+- _As a student, my name should appear in the app as it appears on my Google Account unless I set a nickname/handle in the app, then only the nickname/handle should appear throughout the app. (Sprint 5 feature change)_
 - As a student, I should be able to **upload a profile image stored in S3** because visuals help others recognize me.
 - As a student, I should be able to **attach images (proof, flyers, etc.) to posts/challenges stored in S3** because evidence and visuals make activities credible and engaging.
 - As a privacy-minded user, I should be able to **control who can see my uploaded images** because not all content should be public.
