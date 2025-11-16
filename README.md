@@ -12,7 +12,7 @@ Welcome! This repo contains the **project timeline, requirements, and deliverabl
 - 🧾 Documents:
   - [Requirements Document](https://docs.google.com/document/d/1va2IzjTXi6xZyewZde7gxKobm-mbgb17X_bZOm9Zv9E/edit?usp=sharing)
   - [Change Impact Report](https://docs.google.com/document/d/1DKpH4cOhgKzdlgffvknpHwckCQLbS4TnCzE2qVhOxIA/edit?usp=sharing)
-  - [Beta Testing Document](#)
+  - [Beta Testing Document]([#](https://docs.google.com/document/d/1KhSeWR032OBnvEGQnI7o7PPiPhAnga0KT4bHvTWL7I4/edit?usp=sharing))
 - ✍️ [Citation Guidelines (Syllabus)]([docs/citation_guidelines.md](https://canvas.its.virginia.edu/courses/153278/assignments/syllabus))
 
 ## Project Timeline
